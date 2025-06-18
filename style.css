@@ -3,3 +3,11 @@ body{
     color: white;
     font-family: "Edu VIC WA NT Hand Pre", sans-serif;
 }
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
