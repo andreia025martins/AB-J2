@@ -7,7 +7,7 @@ body{
 
 header{
     font-size: 25px;
-    border-bottom: solid 4px rgb(228, 82, 42);
+    border-bottom: dashed 4px rgb(228, 82, 42);
 
 }
 
