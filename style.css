@@ -7,6 +7,8 @@ body{
 
 header{
     font-size: 25px;
+    border-bottom: solid 4px rgb(228, 82, 42);
+
 }
 
 h1{
