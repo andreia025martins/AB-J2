@@ -23,7 +23,7 @@ p{
 }
 
 section{
-    background: rgb(83, 12, 159);
+    background-color: rgb(83, 12, 159);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
